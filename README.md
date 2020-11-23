@@ -18,3 +18,4 @@ https://manpages.ubuntu.com/manpages/
 모델이 외부지식을 학습할 수 있는 방법으로 Post-Training을 사용한다. 이후 Post-trained 된 모델을 Dialog Selection에 적용하여 문제를 해결한다. 기존 BERT 모델에 비해 외부지식을 학습한 모델의 성능이 $R_{10}@1$ 기준 1.4\% 향상된 결과를 보였다. 결과적으로 현재 Ubuntu corpus V1 데이터셋에 대해서 2위의 성능을 달성하였다.
 
 
+![journal](https://user-images.githubusercontent.com/32722198/99933300-fcd70f00-2d9d-11eb-8bbf-8ff0c19011c4.png)
