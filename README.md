@@ -1,4 +1,4 @@
-# External Knowledge Incorporated BERT for Retrieval-based Dialogue Systems
+# 외부 지식이 반영된 BERT를 활용한 검색 기반 대화 시스템 (External Knowledge Incorporated BERT for Retrieval-based Dialogue Systems) in KCTP
 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002785006
 
 BERT를 사용하여 Dialog Response selection 문제 해결
