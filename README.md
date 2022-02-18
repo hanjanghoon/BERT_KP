@@ -1,4 +1,5 @@
-# NLP_Dialog_BERT_Knowledge
+# External Knowledge Incorporated BERT for Retrieval-based Dialogue Systems
+https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002785006
 
 BERT를 사용하여 Dialog Response selection 문제 해결
 
